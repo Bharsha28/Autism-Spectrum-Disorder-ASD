@@ -1,2 +1,4 @@
 # Autism-Spectrum-Disorder-ASD
-The ultimate goal is to provide a tool that helps in early detection of ASD.This project focuses on developing a machine learning model to detect Autism Spectrum Disorders (ASD) based on various behavioral and demographic features.
+The main objective of this project is to create a tool that can assist in the early detection of ASD. The project is centered around developing a machine-learning model designed to identify Autism Spectrum Disorders (ASD) using a range of behavioral and demographic characteristics.
+To see it in action, click on the link below: 
+https://autism-spectrum-disorder-asd.onrender.com"
