@@ -61,7 +61,7 @@ A10=st.radio(
 )
 #age = st.number_input("Enter your age:", min_value=0, max_value=120, step=1)
 
-age = st.slider("*How old are you?*streamlit", 0, 100, 25)
+age = st.slider("How old are you?", 0, 100, 25)
 g=["MALE","FEMALE"]
 gender = st.selectbox(
     "What is the individual's gender?",
